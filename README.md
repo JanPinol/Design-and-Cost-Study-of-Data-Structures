@@ -1,11 +1,4 @@
-			    	--- ProjectE PAED 2n Semestre ---
-           /\                                                 /\
- _         )( ______________________   ______________________ )(         _
-(_)///////(**)______________________> <______________________(**)\\\\\\\(_)
-           )(                                                 )(
-           \/    --- ELS CAVALLERS DE LA TAULA DE HASH ---    \/
-
-
+--- ProjectE PAED 2n Semestre ---
 
 
 1.- Per fer aquest projecte s'ha utilitzat el llenguatge de progamació Java
@@ -109,13 +102,3 @@ versions 2022. Amb el SDK <openjdk-18 java version 18.0.2>.
 		al dataset no quedarà guardat i al crear-se de nou no apareixerà.
 
 
------------------------
---> GRUP G3_S2_PAED <--
------------------------
-
------------ AUTORS ------------
-  Oriol Rebordosa Cots
-  Leonardo Ruben Edenak Chouev
-  Jan Piñol Castuera
-  Joan Tarragó Pina
--------------------------------	
